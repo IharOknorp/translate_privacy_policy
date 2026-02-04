@@ -74,7 +74,7 @@ Your data may be processed in countries other than your own, including countries
 We may update this Privacy Policy from time to time. The “Effective date” at the top indicates the latest version.
 
 ## 11. Contact Us
-For privacy requests, contact us at: **support@freeok.online**  
+For privacy requests, contact us at: **oknorpcorp@gmail.com**  
 (Replace this email if needed.)
 
 ## 12. Data Deletion
@@ -87,7 +87,7 @@ If you want your data deleted, use one of the methods below.
 This removes local history and local counters stored on the device.
 
 ### B) Request deletion from us
-Send an email to **support@freeok.online** with subject:  
+Send an email to **oknorpcorp@gmail.com** with subject:  
 **“Data Deletion Request — AI Translator”**
 
 Please include:
