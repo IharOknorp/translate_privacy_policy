@@ -1,6 +1,6 @@
 # Privacy Policy — AI Translator
 
-**Effective date:** February 4, 2026
+**Effective date:** February 7, 2026
 
 This Privacy Policy explains how the **AI Translator** mobile app (“App”, “we”, “us”) collects, uses, and protects information.
 
@@ -20,6 +20,8 @@ This Privacy Policy explains how the **AI Translator** mobile app (“App”, �
 
 ## 1. Who We Are
 AI Translator is a mobile application for text translation and related features (history, rewarded ads, subscription).
+
+The App is for entertainment purposes. Responses are generated for you with GPT and may be inaccurate.
 
 ## 2. What Data We Process
 Depending on your use of the App, we may process:
@@ -96,3 +98,4 @@ Please include:
 - description of what you want deleted.
 
 We will review and process deletion requests within a reasonable time and as required by applicable law.
+
